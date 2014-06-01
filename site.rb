@@ -11,3 +11,6 @@
 get '/portuguese' do
   "Oi!"
 end
+ get '/read_more' do
+   erb :read_more
+ end
