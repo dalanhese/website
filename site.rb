@@ -4,3 +4,9 @@
  get '/' do
    "I'm alive!"
  end
+ get '/italian' do
+   "Ciao!"
+ end
+get '/portuguese' do
+  "Oi!"
+end
