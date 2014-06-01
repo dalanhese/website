@@ -4,3 +4,13 @@
    marging: 10px;
   text-align: center;
  }
+ .profile h1 {
+   font-size: 16px;
+   text-transform: uppercase;
+ }
+
+ .profile img {
+   width: 100px;
+   height: 100px;
+   border-radius: 50px;
+ }
