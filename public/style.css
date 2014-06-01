@@ -14,3 +14,10 @@
    height: 100px;
    border-radius: 50px;
  }
+html { 
+  background: url('http://bit.ly/flickr-img') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
