@@ -13,9 +13,9 @@ post '/' do
  get '/italian' do
    erb :italian
  end
-get '/portuguese' do
-  "Oi!"
-end
+ get '/post' do
+   erb :post
+ end
  get '/read_more' do
    erb :read_more
  end
