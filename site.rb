@@ -13,6 +13,9 @@ post '/' do
  get '/italian' do
    erb :italian
  end
+get '/form' do
+   erb :form
+ end
  get '/post' do
    erb :post
  end
